@@ -9,33 +9,28 @@ class Directory extends React.Component {
       sections: [
         {
           title: "hats",
-          imageUrl:
-            "https://images.pexels.com/photos/7917377/pexels-photo-7917377.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          imageUrl: "https://www.crown-clothes.com/images/hats.jpg",
           id: 1,
         },
         {
           title: "jackets",
-          imageUrl:
-            "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          imageUrl: "https://www.crown-clothes.com/images/jackets.jpg",
           id: 2,
         },
         {
           title: "sneakers",
-          imageUrl:
-            "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          imageUrl: "https://www.crown-clothes.com/images/sneakers.jpg",
           id: 3,
         },
         {
           title: "womens",
-          imageUrl:
-            "https://images.pexels.com/photos/5996969/pexels-photo-5996969.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          imageUrl: "https://www.crown-clothes.com/images/womens.jpg",
           size: "large",
           id: 4,
         },
         {
           title: "mens",
-          imageUrl:
-            "https://images.pexels.com/photos/1049317/pexels-photo-1049317.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          imageUrl: "https://www.crown-clothes.com/images/men.jpg",
           size: "large",
           id: 5,
         },
